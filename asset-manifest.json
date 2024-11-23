@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Farmer-Dashboard/static/css/main.05a416d7.css",
+    "main.js": "/Farmer-Dashboard/static/js/main.85cf8c5a.js",
+    "static/media/homebg.jpg": "/Farmer-Dashboard/static/media/homebg.1dd6fd0710baeefa3ef1.jpg",
+    "static/media/health.jpg": "/Farmer-Dashboard/static/media/health.2ebcb03cf78f6337dc9b.jpg",
+    "static/media/bg.jpeg": "/Farmer-Dashboard/static/media/bg.0759174889f4333db33c.jpeg",
+    "index.html": "/Farmer-Dashboard/index.html",
+    "main.05a416d7.css.map": "/Farmer-Dashboard/static/css/main.05a416d7.css.map",
+    "main.85cf8c5a.js.map": "/Farmer-Dashboard/static/js/main.85cf8c5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a416d7.css",
+    "static/js/main.85cf8c5a.js"
+  ]
+}
