@@ -10,9 +10,9 @@ const FarmerDashboard = () => {
   const location = "Kolkata, West Bengal"; 
 
   // API key and base URL
-  const API_KEY = "5218587472524607b70164455242011";
-  const BASE_URL = "http://api.weatherapi.com/v1/current.json";
-
+  // const API_KEY = "5218587472524607b70164455242011";
+  const API_KEY = process.env.REACT_APP_WEATHER_API_KEY;
+  const BASE_URL = "https://api.weatherapi.com/v1/current.json";
   // Fetch weather data
   const fetchWeather = async () => {
     setLoading(true);
