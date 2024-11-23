@@ -1,0 +1,43 @@
+.buttonContainer{
+    width: 520px;
+    margin-left: 15px;
+}
+.buttonContainer h1 {
+    padding: 5px;
+    padding-right: 8px;
+    margin-top: 20px;
+    font-size: 3rem;
+    color: #333;
+    text-align: right;
+    text-decoration: underline;
+    font-weight: 600;
+    text-shadow: 1px 1px rgb(218, 203, 203);
+    background-color: #eee;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  }
+  
+.functionButtons button:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+
+.functionButtons button {
+    text-align: left;
+    width: 100%; /* Full width of the container */
+    padding: 4px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    background-color: #28a745; /* Green button color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+  }
+
+  .functionButtons ul{
+    list-style-type: none;
+    /* padding-left: 0; */
+  }

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+}
+.contain {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh; /* Use full viewport height */
+    background-image: url('../Assets/homebg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(0.5px);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.leaf{
+    width: 70px;
+    height: 70px;
+}
+.agrotitle {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 3px #bab5b5;
+  }
+  
+  #wise {
+    margin-top: 20px;
+    padding: 0;
+    height: 130px;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 8.125rem;
+}
+
+#agr {
+    margin: 0px;
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 2px 3px #bab5b5;
+}
+
+#motto{
+    margin: 5px;
+    margin-top: 10px;
+    text-shadow: 2px 1px #bab5b5;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  .log{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .LoginButton{
+    margin: 10px;
+    margin-top: 80px;
+    background-color: #dac9c9;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 15px 30px 15px 30px;
+    border: none;
+    border-radius: 40px;
+    text-shadow: 2px 1px #bab5b5;
+  }
