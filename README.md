@@ -2,6 +2,9 @@
 
 NurtureWise Agro is a web platform designed to assist farmers with real-time weather updates, soil health insights, crop recommendations, and an integrated marketplace.
 
+![Untitled](https://github.com/user-attachments/assets/ea627a27-8a38-4d94-82a5-24dea5f6c20b)
+
+
 ## Features
 - **Weather Forecast**: Live weather data for better planning.
 - **Google Maps Integration**: View farm locations and nearby facilities.
